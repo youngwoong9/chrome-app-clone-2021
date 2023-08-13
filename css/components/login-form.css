@@ -1,0 +1,9 @@
+#login-form {
+  top: 460px;
+  font-size: 90px;
+}
+
+#login-form input {
+  font-size: 70px;
+  width: 750px;
+}

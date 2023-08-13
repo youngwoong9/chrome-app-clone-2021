@@ -1,0 +1,8 @@
+#quote {
+  font-style: italic;
+  font-weight: bold;
+
+  position: fixed;
+  bottom: 35px;
+  font-size: 20px;
+}

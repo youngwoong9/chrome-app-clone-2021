@@ -1,0 +1,19 @@
+.common-form {
+  position: fixed;
+}
+
+.common-form input {
+  text-align: center;
+  outline: none;
+  border: none;
+  border-bottom: 2px solid white;
+  background-color: transparent;
+}
+
+.common-form input::placeholder {
+  color: white;
+}
+
+.common-form input:focus {
+  color: white;
+}

@@ -1,0 +1,20 @@
+#todo-form {
+  top: 620px;
+}
+
+#todo-form input {
+  font-size: 40px;
+}
+
+#todo-list li {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  top: 700px;
+  margin-bottom: 10px;
+}
+
+#todo-list span {
+  margin-right: 10px;
+  font-size: 30px;
+}
